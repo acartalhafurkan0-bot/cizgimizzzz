@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bizim Çizgimiz ❤️ | Sonsuza Dek Birlikte</title>
+    <title>Bizim Çizgimiz ❤️ | kucukk bebeeek </title>
     
     <!-- Meta Tags for SEO & Social Sharing -->
     <meta name="description" content="Birlikte biriktirdiğimiz en güzel anlar, anılar ve özel günlerimiz için hazırlanan dijital aşk mektubu ve anı tüneli.">
